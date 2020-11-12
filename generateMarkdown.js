@@ -11,7 +11,7 @@ ${data.description}
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contribution](#contribution)
+* [Contribution](#contributions)
 * [Tests](#tests)
 * [Support](#support)
   

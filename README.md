@@ -9,7 +9,7 @@ A generator that will create a professional readme for the user once the user ha
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contribution](#contribution)
+* [Contribution](#contributions)
 * [Tests](#tests)
 * [Support](#support)
   
